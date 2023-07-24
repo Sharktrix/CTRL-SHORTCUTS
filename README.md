@@ -2,9 +2,9 @@
 
 ## Functions
 
-CTRL + A = Select all
-CTRL + B = Bold
-CTRL + C = Copy
+- CTRL + A = Select all
+- CTRL + B = Bold
+- CTRL + C = Copy
 CTRL + ALT + V = Paste Special
 CTRL + D = Fill Down
 CTRL + F = Find
